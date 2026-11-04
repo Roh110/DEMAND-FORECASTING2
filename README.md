@@ -1191,4 +1191,5 @@ into a single interactive application.
 `sibamsen07/project-foresight-artifacts`#   A I - B U I S N E S S - A N A L Y S I S  
  #   a n a l y s i s  
  #   D E M A N D - F O R E C A S T I N G  
+ #   D E M A N D - F O R E C A S T I N G 2  
  
