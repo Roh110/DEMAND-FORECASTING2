@@ -1189,4 +1189,5 @@ into a single interactive application.
 **Hugging Face Artifacts**
 
 `sibamsen07/project-foresight-artifacts`#   A I - B U I S N E S S - A N A L Y S I S  
+ #   a n a l y s i s  
  
