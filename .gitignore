@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# =========================================================
+# PROJECT DATA & LARGE MODEL FILES
+# =========================================================
+
+# Raw datasets
+data/raw/
+
+# Processed datasets
+data/processed/
+
+# Trained machine learning models
+models/
+
+# Large generated files
+*.parquet
+*.pkl
+*.joblib

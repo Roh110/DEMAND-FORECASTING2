@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+pandas
+numpy
+matplotlib
+requests
+scikit-learn==1.7.2
+pyarrow
+joblib
+huggingface_hub
