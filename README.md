@@ -22,10 +22,6 @@ The application is deployed as a **fully Streamlit-based web application**, whil
 
 ## 🚀 Live Demo
 
-**Project FORESIGHT — Live Streamlit Application**
-
-`https://project-foresight-webapp.streamlit.app/`
-
 The deployed application provides access to all four major modules:
 
 1. KPI Dashboard
@@ -1172,24 +1168,3 @@ into a single interactive application.
                         │
                         ▼
                  Live Web App
-```
-
----
-
-## 🔗 Links
-
-**GitHub Repository**
-
-`https://github.com/sibamsen/Project-FORESIGHT`
-
-**Live Application**
-
-`https://project-foresight-webapp.streamlit.app/`
-
-**Hugging Face Artifacts**
-
-`sibamsen07/project-foresight-artifacts`#   A I - B U I S N E S S - A N A L Y S I S  
- #   a n a l y s i s  
- #   D E M A N D - F O R E C A S T I N G  
- #   D E M A N D - F O R E C A S T I N G 2  
- 
